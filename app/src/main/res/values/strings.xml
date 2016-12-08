@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">engkot</string>
+    <string name="topup">TOPUP</string>
+    <string name="pay">PAY</string>
+    <string name="order">ORDER</string>
+    <string name="initial_saldo">IDR 0</string>
+    <string name="saldo">SALDO:</string>
+    <string name="app_title">E-NGKOT</string>
+    <string name="logo_app">Logo App</string>
+</resources>
